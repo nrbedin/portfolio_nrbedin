@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Versão anterior do portfólio (Flutter Web), mantida como histórico.**
+> A versão atual, em React + TypeScript, está em **[nrbedin.github.io](https://nrbedin.github.io)** ([código-fonte](https://github.com/nrbedin/nrbedin.github.io)).
+
 # Naiara Rafaela Bedin - Portfólio
 
 Link: https://nrbedin.github.io/
