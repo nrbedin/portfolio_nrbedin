@@ -1,3 +1,5 @@
+> **Archived.** This was my first portfolio, built with Flutter Web. The current version (React + TypeScript) lives at [nrbedin.github.io](https://nrbedin.github.io) · [source](https://github.com/nrbedin/nrbedin.github.io).
+
 # Naiara Rafaela Bedin - Portfólio
 
 Link: https://nrbedin.github.io/
